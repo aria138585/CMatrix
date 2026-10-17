@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# build and config directories
+.rmv/
+.vscode/
+build/
+test_obj/
